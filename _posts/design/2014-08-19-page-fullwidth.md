@@ -1,44 +1,29 @@
 ---
 layout: page-fullwidth
-title:  "The Full-Width Page Template"
-subheadline:  "Multi-Device Layouts"
-teaser: "The full-width page format gives you all the space you need to show your content using the grid."
+title: "Lorem ipsum dolor sit amet"
+subheadline: "Reading Experience"
+meta_teaser: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam lobortis eu felis in sagittis. Donec sed leo quis lectus varius fringilla. Maecenas sed malesuada elit, id rutrum neque."
+teaser: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam lobortis eu felis in sagittis. Donec sed leo quis lectus varius fringilla. Maecenas sed malesuada elit, id rutrum neque."
+header:
+    image: homepage_typography.jpg
+    background-color: "#262930"
+    caption: This is a caption for the header image with link
+    caption_url: https://unsplash.com/
+image:
+    thumb:  homepage_typography-thumb.jpg
+    homepage: homepage_typography.jpg
+    caption: Image by Antonio
+    caption_url: "http://www.aisleone.net/"
 categories:
     - design
-header:
-   image_fullwidth: header_unsplash_leaf.jpg
+    - typography
 ---
-*Feeling Responsive* is built on Foundation. And of course, we make use of the wonderful grid system and so can you. Find out more about [constructing  beautiful layouts][1] in the foundation documentation.
-<!--more-->
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam lobortis eu felis in sagittis. Donec sed leo quis lectus varius fringilla. Maecenas sed malesuada elit, id rutrum neque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam urna diam, porta suscipit condimentum sed, facilisis nec lectus. Ut quis accumsan eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-<div class="row">
-    <div class="medium-4 columns t30">
-    <img src="{{ site.urlimg }}gallery-example-4.jpg" alt="">
-    </div><!-- /.medium-4.columns -->
+Fusce sed odio quis metus egestas mattis vestibulum non lacus. Quisque maximus dolor ac ullamcorper accumsan. Suspendisse luctus, dolor id mollis hendrerit, lacus quam finibus nisi, sit amet aliquet justo nunc id dolor. Sed eget rutrum lorem, non vulputate orci. Sed nec lectus quis diam cursus vehicula. Integer tempus eleifend massa. Nam a metus ut sapien consequat fringilla. Nunc luctus malesuada justo, eu auctor mauris sagittis eu. Interdum et malesuada fames ac ante ipsum primis in faucibus. In hac habitasse platea dictumst. In vitae tempor purus. Praesent vestibulum, lorem ac pellentesque efficitur, elit ex aliquet lorem, at porttitor eros lacus et ex. Praesent lacinia augue quis felis laoreet, non condimentum nunc luctus.
 
-    <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}gallery-example-5.jpg" alt="">
-    </div><!-- /.medium-4.columns -->
-
-    <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}gallery-example-6.jpg" alt="">
-    </div><!-- /.medium-4.columns -->
-
-</div><!-- /.row -->
-
-
-<div class="row">
-    <div class="medium-8 columns t30">
-    <img src="{{ site.urlimg }}gallery-example-7.jpg" alt="">
-    </div><!-- /.medium-8.columns -->
-
-    <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}gallery-example-3.jpg" alt="">
-      <img class="t30" src="{{ site.urlimg }}gallery-example-8.jpg" alt="">
-    </div><!-- /.medium-4.columns -->
-
-</div><!-- /.row -->
+Maecenas ac ligula justo. Morbi aliquam dolor ante, sit amet tempus turpis consequat vulputate. Mauris vel sodales libero. Cras sed turpis rutrum, pellentesque elit nec, auctor nisl. Nullam hendrerit ligula congue, tincidunt turpis eget, tempor nulla. Integer dapibus justo sem, vel blandit ex condimentum vel. Curabitur vitae eros libero. Mauris fringilla leo ac ultrices tincidunt. Integer ut mauris at massa blandit ultrices.
 
 
 
- [1]: http://foundation.zurb.com/docs/components/grid.html
+
